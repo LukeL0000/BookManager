@@ -64,7 +64,7 @@ Current and Future version(s):
 - I want a prompt that reminds me to load when the current collection is empty
 - I want to track my progress on books in the collection
 - I want to update the information about any existing book in the collection
-- I want to update the information about any existing shelf in the collection
+- I want to update the information about any existing shelf in the collection 
 - I want to have some method (aside from excel) to organize my collection
 - I want said method to organize quickly without the need for input from my end
 - I want something to organize my collection in ways that I am too lazy to do
