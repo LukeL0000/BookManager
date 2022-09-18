@@ -1,0 +1,60 @@
+{
+  "shelves": [
+    {
+      "shelfName": "shelf1",
+      "books": [
+        {
+          "title": "Eighty Six",
+          "author": "Asato Asato",
+          "genre": "Sci-Fi",
+          "pages": 200
+        },
+        {
+          "title": "1984",
+          "author": "George Orwell",
+          "genre": "Sci-Fi",
+          "pages": 300
+        },
+        {
+          "title": "All Quiet On the Western Front",
+          "author": "Erich Maria Remarque",
+          "genre": "Historical Fiction",
+          "pages": 200
+        }
+      ]
+    },
+    {
+      "shelfName": "shelf2",
+      "books": [
+        {
+          "title": "I Want to Eat Your Pancreas",
+          "author": "Yoru Sumino",
+          "genre": "Romance",
+          "pages": 250
+        },
+        {
+          "title": "Xenocide",
+          "author": "Orson Scott Card",
+          "genre": "Sci-Fi",
+          "pages": 600
+        }
+      ]
+    },
+    {
+      "shelfName": "shelf3",
+      "books": [
+        {
+          "title": "Legend of the Galactic Heroes - Dawn",
+          "author": "Yoshiki Tanaka",
+          "genre": "Sci-Fi",
+          "pages": 300
+        }
+      ]
+    },
+    {
+      "shelfName": "shelf4",
+      "books": [
+      ]
+    }
+  ]
+}
